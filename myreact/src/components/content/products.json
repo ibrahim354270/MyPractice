@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Yamaha YZF-R6",
+    "image": "https://images.pexels.com/photos/19161359/pexels-photo-19161359/free-photo-of-sokak-motosiklet-park-etmis-secici-odak.jpeg",
+    "price": 15000,
+    "sale": false,
+    "rate": 4
+  },
+  {
+    "id": 2,
+    "name": "Kawasaki Ninja ZX-10R",
+    "image": "https://images.pexels.com/photos/11745734/pexels-photo-11745734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 17000,
+    "sale": true,
+    "rate": 5
+  },
+  {
+    "id": 3,
+    "name": "Honda CBR1000RR",
+    "image": "https://images.pexels.com/photos/14828820/pexels-photo-14828820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 18000,
+    "sale": false,
+    "rate": 4
+  },
+  {
+    "id": 4,
+    "name": "Suzuki GSX-R1000",
+    "image": "https://images.pexels.com/photos/8194537/pexels-photo-8194537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 16000,
+    "sale": true,
+    "rate": 4
+  },
+  {
+    "id": 5,
+    "name": "BMW S1000RR",
+    "image": "https://images.pexels.com/photos/19311163/pexels-photo-19311163/free-photo-of-yol-insanlar-sokak-arac.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 19000,
+    "sale": true,
+    "rate": 5
+  },
+  {
+    "id": 6,
+    "name": "Ducati Panigale V4",
+    "image": "https://images.pexels.com/photos/8186369/pexels-photo-8186369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 20000,
+    "sale": false,
+    "rate": 5
+  }
+  
+]

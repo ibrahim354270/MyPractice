@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create": "^0.0.2",
+    "create-vite": "^5.2.2",
+    "vite": "^5.1.6"
+  }
+}

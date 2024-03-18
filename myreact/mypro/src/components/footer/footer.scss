@@ -1,0 +1,23 @@
+.footer{
+   
+    background-color:  rgba(126, 96, 32, 0.884);
+    
+    .container{
+        .row{
+            padding: 10px;
+            
+            a{
+                text-decoration: none;
+                color: goldenrod;
+                margin-right: 10px;
+                
+            }
+            img{
+                width: 24px;
+                height: 24px;
+                margin-right: 10px;
+              
+            }
+        }
+    }
+}
